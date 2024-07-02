@@ -29,8 +29,7 @@ This repository contains a Node.js application that automates transactions on th
    **Example `privateKeys.json` (correct format):**
    ```json
    [
-       "private_key_1_here",
-       "private_key_2_here"
+       "private_key_1_here"    
    ]
    ```
 
